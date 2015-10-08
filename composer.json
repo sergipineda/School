@@ -1,0 +1,16 @@
+{
+    "name": "sergi/school",
+    "description": "hola",
+    "authors": [
+        {
+            "name": "Sergi",
+            "email": "spineda1994@gmail.com"
+        }
+    ],
+    "autoload":{
+     "psr-4" :{
+         "Com\\Iesebre\\Dam2\\seripineda\\" : "Classes"
+     }
+    },
+    "require": {}
+}
